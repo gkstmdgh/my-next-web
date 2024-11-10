@@ -1,6 +1,6 @@
 "use client";
 
-import {HeartIcon, HeartOff, MessageCircleMore } from "lucide-react"
+import {HeartOff, MessageCircleMore } from "lucide-react"
 
 export default function Home() {
   return (
